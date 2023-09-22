@@ -1,0 +1,2 @@
+- 👋 Étudiant en deuxième année de BTS SIO - Actuellement en recherche de stage développement du 8 janvier au 16 février 2024
+- 📫 
