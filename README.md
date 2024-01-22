@@ -127,14 +127,6 @@
 <br>
 
 <li>
-<a href="https://twitter.com/maru3759" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  Maru775-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
 <a href="mailto:bouzida.marouane@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Maru775-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
