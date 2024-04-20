@@ -17,8 +17,7 @@
 <br>
 
 - A passionate developer
-- Currently learning Web Development
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/)
+- Currently learning Web and mobile Development
 
 <br><br>
 
@@ -119,7 +118,7 @@
 <ul>
 
 <li>
-<a href="www.linkedin.com/in/marouane775" target="_blank">
+<a href="linkedin.com/in/marouane775" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Maru775-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
