@@ -23,20 +23,20 @@ I enjoy turning hard problems into software that is useful, reliable, and pleasa
 - Interested in applied AI, cloud-native systems, developer tools, and scientific computing.
 - Italian · French · English · conversational Spanish
 
-## Things I build
+## Focus areas
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧠 Applied AI
+### Applied AI
 
 LLM pipelines, RAG, document intelligence, semantic search, and agentic workflows for real operational contexts.
 
 </td>
 <td width="50%">
 
-### ⚡ AI for Science
+### AI for Science
 
 HPC-native runtimes, durable workflows, lab data catalogs, and researcher-facing TUI / VS Code / MCP tooling.
 
@@ -45,14 +45,14 @@ HPC-native runtimes, durable workflows, lab data catalogs, and researcher-facing
 <tr>
 <td width="50%">
 
-### 🛠️ Software products
+### Software products
 
 FastAPI services, TypeScript interfaces, mobile apps, offline-first workflows, and clean API design.
 
 </td>
 <td width="50%">
 
-### ☁️ Platform
+### Platform
 
 Azure, Docker, Kubernetes, PostgreSQL, Redis, Supabase, and Slurm-oriented delivery.
 
