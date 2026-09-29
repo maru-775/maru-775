@@ -60,7 +60,7 @@ Azure, Docker, Kubernetes, PostgreSQL, Redis, Supabase, and Slurm-oriented deliv
 </tr>
 </table>
 
-## Selected projects
+## Featured builds
 
 | Project | What it is |
 |---|---|
@@ -70,7 +70,7 @@ Azure, Docker, Kubernetes, PostgreSQL, Redis, Supabase, and Slurm-oriented deliv
 | [AI Pacman](https://github.com/maru-775/AI-pacman) | Browser reinforcement-learning lab with tabular and linear Q-learning |
 | [SkyOdyssey](https://github.com/maru-775/SkyOdyssey-CLI) · [MCP](https://github.com/maru-775/SkyOdyssey-MCP) | Flight discovery, itinerary optimization, and an MCP server for AI clients |
 
-## Tools I like
+## My stack
 
 <p align="center">
 
@@ -87,8 +87,9 @@ Azure, Docker, Kubernetes, PostgreSQL, Redis, Supabase, and Slurm-oriented deliv
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maru-775&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maru-775&layout=compact&hide_border=true&theme=tokyonight" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maru-775&theme=tokyonight" width="100%" />
+
+<img src="https://streak-stats.demolab.com/?user=maru-775&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
