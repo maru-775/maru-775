@@ -19,7 +19,7 @@
 I enjoy turning hard problems into software that is useful, reliable, and pleasant to use.
 
 - Building AI automation and internal knowledge tools at **Thuasne** with Azure, Docker, and Kubernetes.
-- Completed a **RIKEN R-CCS** research internship in Kobe (Jun–Aug 2026) on HPC-native AI for Science and durable agent tooling: **100+ merged PRs** across UMRS and R4.
+- Completed a **RIKEN R-CCS** research internship in Kobe (Jun–Aug 2026) on HPC-native AI for Science and durable agent tooling, contributing to the UMRS and R4 projects.
 - Interested in applied AI, cloud-native systems, developer tools, and scientific computing.
 - 🔎 Open to junior AI / software / cloud roles and VIE missions from **September 2027**, happy to relocate.
 - Italian & Arabic (native) · French · English · conversational Spanish · learning Japanese
@@ -34,7 +34,6 @@ I enjoy turning hard problems into software that is useful, reliable, and pleasa
 
 Unified Multimodal Retrieval System: config-driven ingestion, text / vision / workflow pipelines on Slurm GPU runtimes, PostgreSQL + pgvector.
 
-**23 merged PRs · 34 commits** ([see my PRs](https://github.com/UMRS-org/umrs/pulls?q=is%3Apr+author%3Amaru-775))<br/>
 Scientist data catalog & Postgres source of truth · knowledge extraction · multimodal model support · multi-step Slurm workflows with ownership checks.
 
 </td>
@@ -44,7 +43,6 @@ Scientist data catalog & Postgres source of truth · knowledge extraction · mul
 
 The researcher-facing client of the platform: CLI, terminal companion, VS Code language-model provider and MCP tools on top of UMRS.
 
-**70+ merged PRs**<br/>
 Companion TUI (slash commands, approvals, plan mode) · VS Code extension (reasoning UI, vision proxy) · MCP web & code search · project plan/run CLI.
 
 </td>
