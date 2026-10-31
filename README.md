@@ -19,9 +19,37 @@
 I enjoy turning hard problems into software that is useful, reliable, and pleasant to use.
 
 - Building AI automation and internal knowledge tools at **Thuasne** with Azure, Docker, and Kubernetes.
-- Completed a **RIKEN R-CCS** research internship in Kobe on HPC-native AI for Science and durable agent tooling.
+- Completed a **RIKEN R-CCS** research internship in Kobe (Jun–Aug 2026) on HPC-native AI for Science and durable agent tooling: **100+ merged PRs** across UMRS and R4.
 - Interested in applied AI, cloud-native systems, developer tools, and scientific computing.
-- Italian · French · English · conversational Spanish
+- 🔎 Open to junior AI / software / cloud roles and VIE missions from **September 2027**, happy to relocate.
+- Italian & Arabic (native) · French · English · conversational Spanish · learning Japanese
+
+## Research highlights · RIKEN R-CCS
+
+<table>
+<tr>
+<td width="50%">
+
+### [UMRS](https://github.com/UMRS-org/umrs)
+
+Unified Multimodal Retrieval System: config-driven ingestion, text / vision / workflow pipelines on Slurm GPU runtimes, PostgreSQL + pgvector.
+
+**23 merged PRs · 34 commits** ([see my PRs](https://github.com/UMRS-org/umrs/pulls?q=is%3Apr+author%3Amaru-775))<br/>
+Scientist data catalog & Postgres source of truth · knowledge extraction · multimodal model support · multi-step Slurm workflows with ownership checks.
+
+</td>
+<td width="50%">
+
+### R4 <sub>(private)</sub>
+
+The researcher-facing client of the platform: CLI, terminal companion, VS Code language-model provider and MCP tools on top of UMRS.
+
+**70+ merged PRs**<br/>
+Companion TUI (slash commands, approvals, plan mode) · VS Code extension (reasoning UI, vision proxy) · MCP web & code search · project plan/run CLI.
+
+</td>
+</tr>
+</table>
 
 ## Focus areas
 
@@ -64,7 +92,7 @@ Azure, Docker, Kubernetes, PostgreSQL, Redis, Supabase, and Slurm-oriented deliv
 
 | Project | What it is |
 |---|---|
-| [Safar](https://github.com/maru-775/Safar) | AI travel itineraries with React Native, FastAPI, Supabase, and an LLM pipeline |
+| [Safar](https://safar-web-gamma.vercel.app) | AI travel itineraries with React Native, FastAPI, Supabase, and an LLM pipeline |
 | [AudioBookMaker](https://github.com/maru-775/AudioBookMaker) | EPUB/PDF-to-audiobook pipeline with FastAPI, Celery, Redis, and Next.js |
 | [Photo Valley](https://github.com/maru-775/photo-valley) | Photo management platform with EXIF, albums, bulk operations, and a dark UI |
 | [AI Pacman](https://github.com/maru-775/AI-pacman) | Browser reinforcement-learning lab with tabular and linear Q-learning |
