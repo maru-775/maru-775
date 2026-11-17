@@ -90,7 +90,7 @@ Azure, Docker, Kubernetes, PostgreSQL, Redis, Supabase, and Slurm-oriented deliv
 
 | Project | What it is |
 |---|---|
-| [Safar](https://safar-web-gamma.vercel.app) | AI travel itineraries with React Native, FastAPI, Supabase, and an LLM pipeline |
+| [Safar](https://plansafar.com) | AI travel itineraries with React Native, FastAPI, Supabase, and an LLM pipeline |
 | [AudioBookMaker](https://github.com/maru-775/AudioBookMaker) | EPUB/PDF-to-audiobook pipeline with FastAPI, Celery, Redis, and Next.js |
 | [Photo Valley](https://github.com/maru-775/photo-valley) | Photo management platform with EXIF, albums, bulk operations, and a dark UI |
 | [AI Pacman](https://github.com/maru-775/AI-pacman) | Browser reinforcement-learning lab with tabular and linear Q-learning |
